@@ -1,0 +1,469 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Medicine (Baltimore)</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Medicine (Baltimore)</journal-id>
+      <journal-id journal-id-type="publisher-id">MEDI</journal-id>
+      <journal-title-group>
+        <journal-title>Medicine</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0025-7974</issn>
+      <issn pub-type="epub">1536-5964</issn>
+      <publisher>
+        <publisher-name>Wolters Kluwer Health</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">28272243</article-id>
+      <article-id pub-id-type="pmc">5348191</article-id>
+      <article-id pub-id-type="publisher-id">MD-D-16-04509</article-id>
+      <article-id pub-id-type="doi">10.1097/MD.0000000000006278</article-id>
+      <article-id pub-id-type="art-access-id">06278</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>4000</subject>
+        </subj-group>
+        <subj-group>
+          <subject>Research Article</subject>
+          <subject>Diagnostic Accuracy Study</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mobile teledermatology for skin cancer screening</article-title>
+        <subtitle>A diagnostic accuracy study</subtitle>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Markun</surname>
+            <given-names>Stefan</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff1">
+            <sup>a</sup>
+          </xref>
+          <xref rid="cor1" ref-type="corresp">
+            <sup>&#x2217;</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Scherz</surname>
+            <given-names>Nathalie</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff1">
+            <sup>a</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rosemann</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <degrees>MD, PhD</degrees>
+          <xref ref-type="aff" rid="aff1">
+            <sup>a</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tandjung</surname>
+            <given-names>Ryan</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff1">
+            <sup>a</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Braun</surname>
+            <given-names>Ralph P.</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <xref ref-type="aff" rid="aff2">
+            <sup>b</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Boros.</surname>
+            <given-names>Laszlo Geza</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><label>a</label>Institute of primary care, University and University Hospital of Z&#xFC;rich, Z&#xFC;rich, Switzerland</aff>
+      <aff id="aff2"><label>b</label>Department of Dermatology, University and University Hospital of Z&#xFC;rich, Z&#xFC;rich, Switzerland.</aff>
+      <author-notes id="cor1">
+        <corresp><label>&#x2217;</label>Correspondence: Stefan Markun, Institute of Primary Care, University Hospital Z&#xFC;rich, Pestalozzistrasse 24, CH-8091 Z&#xFC;rich, Switzerland (e-mail: <email>stefan.markun@usz.ch</email>).</corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>96</volume>
+      <issue>10</issue>
+      <elocation-id>e6278</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>6</month>
+          <year>2016</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>10</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>9</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2017 the Author(s). Published by Wolters Kluwer Health, Inc.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0">
+          <license-p>This is an open access article distributed under the Creative Commons Attribution License 4.0 (CCBY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</ext-link></license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:type="simple" xlink:href="medi-96-e6278.pdf"/>
+      <abstract abstract-type="toc">
+        <p>Supplemental Digital Content is available in the text</p>
+      </abstract>
+      <abstract>
+        <title>Abstract</title>
+        <p>Skin cancer screening has undoubted potential to reduce cancer-specific morbidity and mortality. Total-body exams remain the prevailing concept of skin cancer screening even if effectiveness and value of this method are controversial. Meanwhile, store and forward teledermatology was shown to be a reliable instrument for several diagnostic purposes mostly in specialized dermatology settings. The objective of this study was to evaluate most convenient mobile teledermatology interventions as instruments for skin cancer screening in a representative population.</p>
+        <p>Prospective diagnostic study with visitors of a skin cancer screening campaign in Switzerland. Histopathology was used as reference standard. Mobile teledermatology with or without dermoscopic images was assessed for performance as a screening test (i.e., rule-in or rule-out the need for further testing). Outcomes were sensitivity, specificity, and predictive values.</p>
+        <p>Seven cases of skin cancer were present among 195 skin lesions. All skin cancers were ruled-in by teledermatology with or without dermoscopic images (sensitivity and negative predictive value 100%). The addition of dermoscopic images to conventional images resulted in higher specificity (85% vs. 77%), allowing reduction of unnecessary further testing in a larger proportion of skin lesions.</p>
+        <p>Store and forward mobile teledermatology could serve as an instrument for population-based skin cancer screening because of favorable test performance.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>m-health</kwd>
+        <kwd>screening</kwd>
+        <kwd>sensitivity</kwd>
+        <kwd>skin cancer</kwd>
+        <kwd>specificity</kwd>
+        <kwd>teledermatology</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>OPEN-ACCESS</meta-name>
+          <meta-value>TRUE</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <label>1</label>
+      <title>Introduction</title>
+      <p>Skin cancer is on the rise globally and especially so in Switzerland.<sup>[<xref rid="R1" ref-type="bibr">1</xref>]</sup> Campaigns to raise awareness and foster prevention and early detection of skin cancer are ongoing since over a decade.<sup>[<xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R3" ref-type="bibr">3</xref>]</sup> Owing to superficial growth and natural course running through preclinical stages, skin cancer is highly amenable for screening interventions with potential economical and health-benefits.<sup>[<xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R5" ref-type="bibr">5</xref>]</sup> The selection of the population to screen, the kind of healthcare professionals to appoint, and the type of clinical assessment to perform, however, are still to debate. Moreover, the effectiveness of skin cancer screening in general still remains to be determined.<sup>[<xref rid="R6" ref-type="bibr">6</xref>]</sup> So far, the prevailing concept of skin cancer screening is the total-body exam executed by trained physicians. This type of intervention, however, is very expensive and possibly disproportional to introduce on a population-based scale. The nationwide skin cancer screening program in Germany, for instance, relied on total-body exams but surprisingly failed to result in improvements of skin cancer mortality rates despite promising results from a pilot project.<sup>[<xref rid="R7" ref-type="bibr">7</xref>,<xref rid="R8" ref-type="bibr">8</xref>]</sup> The role of total-body exams might be the one of a case-finding procedure in an at-risk population, rather than a population-based screening intervention. In contrast, lesion directed examinations are more time-efficient and have similar detection rates, but still require time-expensive face-to-face consultations and similar constraints as to total-body examinations apply.<sup>[<xref rid="R9" ref-type="bibr">9</xref>]</sup> Teledermatological assessments on the other hand, especially lesion directed store and forward procedures can be performed in a most speedy manner. In several former studies, the reliability of teledermatology based management recommendations was shown to be comparable to face-to-face consultations.<sup>[<xref rid="R10" ref-type="bibr">10</xref>&#x2013;<xref rid="R15" ref-type="bibr">15</xref>]</sup> Moreover, recent technical advancements led to mobile phone assisted dermoscopy even enabling &#x201C;mobile teledermoscopy,&#x201D; combining high technical standards of teledermatological image acquisition with mobile phone convenience. Feasibility and reliability for cancer detection with such mobile teledermoscopy has already been shown in high prevalence settings.<sup>[<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref>]</sup></p>
+      <p>Given time-efficiency, reliability, and the widespread dissemination of powerful digital cameras integrated in mobile phones, the remaining technical limitations to mobile teledermatology for skin cancer screening are few and may lie in standardization of the specific methods of image acquisition to achieve highest possible reliability.<sup>[<xref rid="R18" ref-type="bibr">18</xref>]</sup> Once these issues are resolved, image acquisition could be transferred to settings outside medical practices and broader population based screening could be implemented.</p>
+      <p>To assess a screening intervention in this context, test performance measures (sensitivity, specificity, and predictive values) in directing malignant lesions to further evaluation (and treatment) and withholding these measures in non-malignant skin lesions are needed to know. Also, the detection rate of malignant skin lesions (i.e., number needed to screen) in a representative low-prevalence setting is relevant to estimate the value of the screening intervention. So far, however, only little research in mobile teledermatology has been conducted in settings representative for population based screening, and research concentrated on specialized secondary or tertiary care settings. Furthermore, the additional value of teledermoscopy on top of conventional teledermatology for screening interventions is still unclear.</p>
+      <p>Therefore, the aim of this study was to estimate the diagnostic performance (sensitivity, specificity, and predictive values) of lesion-directed mobile teledermatology with or without dermoscopic imaging as a skin cancer screening intervention in a population representing a low-prevalence setting.</p>
+    </sec>
+    <sec>
+      <label>2</label>
+      <title>Methods</title>
+      <sec>
+        <label>2.1</label>
+        <title>Study design</title>
+        <p>We conducted a prospective diagnostic study with data collection during a public skin cancer screening campaign at the Department of Dermatology at the University Hospital of Z&#xFC;rich in May 2013. Ethics committee of the Canton of Z&#xFC;rich approved the study on May 8, 2013 (KEK-ZH-Nr. 2013&#x2013;0119). The study was conducted according to the tenants of the declaration of Helsinki and to good clinical practice standards.</p>
+      </sec>
+      <sec>
+        <label>2.2</label>
+        <title>Screening campaign and participants</title>
+        <p>The &#x201C;National skin cancer day&#x201D; is a yearly conducted skin cancer screening campaign in Switzerland and is carried out in dermatology clinics and hospitals since 2006. Anyone interested may visit a participating site without scheduled appointment to present specific skin lesions to be checked for malignancy (total-body exams are not performed). In order to reduce administrative expenditures during the campaign, participants do not register at the clinic but are guided through the screening anonymously without any information being documented. For the purpose of this study and to evaluate quality of the procedures during the campaign, we prospectively documented skin lesions with digital images and structured clinical information and followed outcomes of biopsies.</p>
+        <p>At the reception, participants were given consecutive numbers in order of their appearance in the clinic. Participants were then allocated to 1 of 18 examination rooms. In 8 of the 18 examination rooms, personnel and camera equipment for study participation was available and participants were approached for study participation. The allocation to the 18 examination rooms was performed consecutively in order of appearance at the reception and according to availability in next possible examination room. Thereby, we sought to prevent selection of specific skin lesions for specific examination rooms. We included skin lesions of participants that provided informed consent and the documentation of the skin lesion with macroscopic and microscopic digital images succeeded.</p>
+      </sec>
+      <sec>
+        <label>2.3</label>
+        <title>Clinical measures and skin cancers</title>
+        <p>The lesion-directed clinical examinations were performed by residents of the Department of Dermatology with an on-call backup by senior staff for assistance in uncertain cases. From examinations, the following data were filled in a standardized form: age, sex, personal or family history of skin cancer, skin type according to Fitzpatrick, the estimated total number of moles (&gt;100 or &lt;100), suspected diagnoses and management recommendations for the skin lesion under question.</p>
+        <p>When skin cancer was suspected, participants were offered appointments (immediately or within a few days) to remove the skin lesions or to perform biopsy. The biopsy results were available to us and served as the reference standard for skin cancer being present or not. When skin cancer was ruled out clinically, obviously no additional biopsy was performed and the clinical decision served as reference standard.</p>
+      </sec>
+      <sec>
+        <label>2.4</label>
+        <title>Teledermatology method and measures</title>
+        <sec>
+          <label>2.4.1</label>
+          <title>Image acquisition:</title>
+          <p>Medicine students who completed a 1-hour training workshop in skin lesion photography acquired 3 images of every skin lesion utilizing the integrated 5-megapixel camera of an iPod (Apple Inc.) touch fifth generation. First, an overview image that showed anatomical region of the lesion, second a macroscopic image from approximately 10&#x200A;cm that showed the surrounding skin including the dispersion of other skin lesions, third a dermoscopic image was taken using the Handyscope (FotoFinder Systems GmbH, Bad Birnbach, Germany) (purpose-built attachable dermoscope that converts an iPhone or iPod touch into a digital dermoscope for mobile skin examinations, allowing polarized and non-polarized images of up to 20 times magnification; the product was not Food and Drug Administration labeled for the use under discussion).<sup>[<xref rid="R19" ref-type="bibr">19</xref>]</sup> All acquired images were JPEGs with a resolution of 2592&#x200A;&#xD7;&#x200A;1936 pixels.</p>
+        </sec>
+        <sec>
+          <label>2.4.2</label>
+          <title>Teledermatological assessment:</title>
+          <p>The images were arranged by skin lesions and organized in 2 packages, the first package including macroscopic images only and the second package including the additional teledermoscopic images. The packages were stored on encrypted hard-drives and sequentially forwarded to the teledermatologist (see acknowledgment) with a 1-month washout time interval between the first and the second package. The teledermatologist was a board certified dermatologist and very experienced in the teledermatological examination of skin lesions including digital teledermoscopy. Along with the images, the teledermatologist was given the information about the patients&#x2019; age, sex, history of skin cancer, Fitzpatrick skin type, and the estimated number of moles retrieved from the questionnaire of the clinical examination. The teledermatologist was aware of her task being skin cancer screening but was left unaware of the aim of the study and blinded towards suspected diagnoses and management recommendations already given by the dermatologists at the screening campaign and towards biopsy results. For every skin lesion, the teledermatologist first decided whether the provided images were adequate to allow assessment for cancer screening at all. Secondly, in adequate cases, management recommendations had to be given in 3 categories: (a) no follow-up required, (b) clinical assessment required, (c) direct excision or biopsy.</p>
+        </sec>
+      </sec>
+      <sec>
+        <label>2.5</label>
+        <title>Statistical analysis</title>
+        <p>Quantitative variables are reported as medians and interquartile ranges, categorical variables are reported as counts and proportions. Management recommendations from teledermatology were dichotomized as follows: &#x201C;no follow-up required&#x201D; was categorized as negative outcome of the screening test and &#x201C;clinical assessment required&#x201D; or &#x201C;direct excision or biopsy&#x201D; was categorized as positive test outcome. Skin lesions that had histopathology-confirmed skin cancers were categorized as cancer-positive, all others as cancer-negative.</p>
+        <p>We calculated the number of patients to be screened to detect a case of skin cancer, by dividing the total number of histology confirmed skin cancer by the number participants included in the study. Furthermore, we calculated test sensitivity, specificity, and predictive values in according to the test outcomes categorized above with reference to cancer being present or not according to the biopsy confirmed results. Agreement between teledermatology and gold standard are expressed by concordance rate as well as Cohen's Kappa (<italic>&#x3BA;</italic>). All analyses were performed in duplicate for the 2 test methods with or without teledermoscopic images.</p>
+      </sec>
+      <sec>
+        <label>2.6</label>
+        <title>Outcomes</title>
+        <p>The primary outcomes of this study were the test performance measures of teledermatology with and without teledermoscopy. Further outcomes were the practicability of the techniques measured by skin lesions the teledermatologist rated to be suitable to perform cancer screening, moreover as an estimate of potential value of the screening intervention we calculated the number of skin lesions needed to be screened to detect 1 case of skin cancer.</p>
+      </sec>
+    </sec>
+    <sec>
+      <label>3</label>
+      <title>Results</title>
+      <sec>
+        <label>3.1</label>
+        <title>Population</title>
+        <p>A total of 412 skin lesions (in 405 patients) were counted at the screening campaign on May 13th, 2013 and 225 skin lesions were seen in examination rooms equipped for study participation. In 13 (5.8%) of these informed consent was unavailable and in 17 (7.6%) no digital images were acquired because of technical problems, thus resulting in 195 (86.7%) of the eligible skin lesions included in the study (Fig. <xref ref-type="fig" rid="F1">1</xref>).</p>
+        <fig id="F1" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p>Study flow-chart and outcome counts.</p>
+          </caption>
+          <graphic xlink:href="medi-96-e6278-g001"/>
+        </fig>
+        <p>Skin lesions in the study originated from a total of 188 patients, population characteristics are given in Table <xref ref-type="table" rid="T1">1</xref>. The clinically suspected diagnoses and management recommendations for skin lesions are summarized in Table <xref ref-type="table" rid="T2">2</xref>. The prevalence of malignancy in the sample was 3.6%.</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p>Characteristics of study participants at the screening campaign, total n&#x200A;=&#x200A;188.</p>
+          </caption>
+          <graphic xlink:href="medi-96-e6278-g002"/>
+        </table-wrap>
+        <table-wrap id="T2" position="float">
+          <label>Table 2</label>
+          <caption>
+            <p>Characteristics of skin lesions at the screening campaign, total n&#x200A;=&#x200A;195.</p>
+          </caption>
+          <graphic xlink:href="medi-96-e6278-g003"/>
+        </table-wrap>
+      </sec>
+      <sec>
+        <label>3.2</label>
+        <title>Practicability of teledermatology as screening test and number needed to screen</title>
+        <p>Conventional images alone were suitable to perform skin cancer screening in 182 (93.3%) of the cases, in the image package including teledermoscopic images 192 (98.5%) skin lesions were suitable. To detect 1 case of skin cancer, we needed to screen 27 skin lesions in our sample.</p>
+      </sec>
+      <sec>
+        <label>3.3</label>
+        <title>Performance of teledermatology as screening tests</title>
+        <p>Test performance measures of conventional teledermatology were 100% sensitivity, 76.6% specificity, 14.6% positive predictive value, and 100% negative predictive value. Conventional teledermatology was able to rule-out the need for any further follow-up in 134 of 182 skin lesions (73.6%) without missing any of the skin cancers in the sample. Overall concordance of conventional teledermatology with reference standard was 77.5% (<italic>&#x3BA;</italic>&#x200A;=&#x200A;0.20).</p>
+        <p>Additional teledermoscopy on top of conventional teledermatology performed with 100% sensitivity, 84.9% specificity, 20.0% positive predictive value, and 100% negative predictive value. The rule-out of any further follow-up was possible in 157 of 192 (81.8%) skin lesions without missing any of the skin cancers in the sample. Overall concordance of teledermatology featuring teledermoscopy with reference standard was 85.4% (<italic>&#x3BA;</italic>&#x200A;=&#x200A;0.29).</p>
+        <p>Detailed cross tabulation of test outcomes according to the reference standard is given (supplemental information files 1 and 2).</p>
+      </sec>
+      <sec>
+        <label>3.4</label>
+        <title>Additional exploratory analyses</title>
+        <p>In order to assess whether different levels of clinical presentations were associated with different test-performance, we applied a binomial logistic regression model with the dependent variable being the agreement of the teledermatology with reference standard. As independent variables, we added all clinical variables from the clinical assessment.</p>
+        <p>For teledermatology without teledermoscopic images we found no association of clinical presentations with test performance. In teledermatology including teledermoscopy, however, the clinical presentations of atypical mole and age were both associated with lesser odds for agreement with reference standard: atypical mole odds ratio for agreement (OR)&#x200A;=&#x200A;0.05 (95% confidence interval [CI]&#x200A;=&#x200A;0.001&#x2013;0.28); age OR&#x200A;=&#x200A;0.96 (95% CI&#x200A;=&#x200A;0.92&#x2013;0.99).</p>
+      </sec>
+    </sec>
+    <sec>
+      <label>4</label>
+      <title>Discussion</title>
+      <p>In this study, mobile teledermatology detected all cases of skin cancer in a low prevalence population and accurately ruled out the necessity of further testing in 3 out of 4 cases. Mobile teledermoscopy in addition to conventional images increased specificity of the screening allowing correct rule-out in 4 out of 5 skin lesions. Mobile teledermoscopy also had higher practicability featuring a substantially lower rate of images classified as inadequate for screening compared with conventional mobile teledermatology.</p>
+      <p>Findings from our study are in line with previous research demonstrating very high cancer detection rates of mobile teledermoscopy in high-prevalence settings.<sup>[<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref>]</sup> In a very similar setting as ours, a high management concordance between face-to-face consultations and conventional teledermatology has recently been found and cancer screening utilizing teledermatology was suggested.<sup>[<xref rid="R20" ref-type="bibr">20</xref>]</sup> Here, we followed the diagnostic chain beyond agreement with clinical management recommendations (suffering from interrater variability) and linked the results to a valid gold-standard represented by histopathology, therefore allowing test performance measurements in a screening population.</p>
+      <p>The specific methods in skin cancer screening are still to debate and our results emphasize teledermatology's potential contribution to this field: first, sensitivity and negative predictive value for ruling in skin cancers (to either subsequent clinical assessment or direct excision) was 100% clearly arguing for qualification of the technique as a screening intervention, because no case of skin cancer was falsely ruled out. Furthermore, only minimal training of photographers was needed to enable acquisition of images suitable for the teledermatologist arguing for practicability of the technique. We did not systematically assess the teledermatologist's time expenditures to perform the assessments; however, each set (consisting in almost 200 images) was finished within &#x201C;one afternoon&#x201D; strongly arguing for time-efficiency of the procedure considering that the image material was derived from face-to-face exams performed by 8 physicians working an entire day each. Looking at the additional value of teledermoscopy on top of conventional teledermatology, we found that more skin lesions were suitable to be screened but more importantly, specificity increased allowing more lesions to be ruled-out by the screening with the exception of atypical moles. Thus, considering that additional expenses in technical equipment and time to perform 1 additional image are small, mobile teledermoscopy might be a valuable enhancement in addition to conventional mobile teledermatology because it can effectively decrease unnecessary follow-up exams due to false-positive screening outcomes.</p>
+      <p>Our results show how teledermatology could contribute to skin cancer screening by image acquisition also outside medical practice by minimally instructed personnel (possibly even patients themselves) as piloted for other clinical questions in dermatology.<sup>[<xref rid="R21" ref-type="bibr">21</xref>]</sup> Similar procedures are by now only proposed and integrated in remote and medically under-supported areas but such a service might also decrease skin cancer rates in other healthcare settings when offered to the broad population.<sup>[<xref rid="R22" ref-type="bibr">22</xref>]</sup> Even if total-body exams presumably have higher detection rate in 1 specific individual, the population-wide detection rate may be higher using a teledermoscopy service. This because of lower barriers and easier access to teledermatology than to total-body exams and because of already very high acceptance among the population.<sup>[<xref rid="R23" ref-type="bibr">23</xref>]</sup> Notably, such a screening would ultimately depend on self-detection of skin lesions by individuals among the population. The comparably high cancer rate we found in our population speaks in favor of the population's ability for self-detection, furthermore this ability has specifically been found before in a comparable screening setting.<sup>[<xref rid="R24" ref-type="bibr">24</xref>]</sup></p>
+      <sec>
+        <label>4.1</label>
+        <title>Strengths and limitations</title>
+        <p>The main strength and novelty of our study is the head-to-head comparison of teledermatological skin cancer screening interventions in a representative population with a valid gold-standard available. Limitations to this study are the following: first, only 1 teledermatologist was involved and since there is no standardized training or generally accepted method of image acquisition and image evaluation, reproducibility of our results is uncertain. The low-level of efforts needed to implement image acquisition combined with the positive results per se, however, are encouraging for further pursuit of the concept. Secondly, teledermatology may still have missed skin cancers because histopathology was not available in every 195 skin lesion assessed, however, these hypothetical skin cancers would have also been missed by the face-to-face examinations. Therefore, teledermatology was at least non-inferior to face-to-face examinations that are themselves the commonly accepted standard in skin cancer screening.</p>
+      </sec>
+      <sec>
+        <label>4.2</label>
+        <title>Recommendations for further research</title>
+        <p>For further research we suggest that teledermatology's test performance is investigated depending on reproducible standards of image acquisition and image evaluation using skin lesions originating from a population representative for skin cancer screening. Especially, there might still be room left to improve specificity of the screening without renouncing sensitivity that appears already to be very high. Further steps then include research in delivery and design of a population-based teledermatology screening intervention (i.e., with image acquisition outside medical practices) before a population wide reduction of skin cancer burden can be attempted.</p>
+        <p>We conclude that store and forward mobile teledermatology is inexpensive, practicable, and able to produce highly accurate management recommendations in the specific role of skin cancer screening. Population-based skin cancer prevention programs could consider implementing mobile teledermatology services as screening tests rather than directly offering total-body exams.</p>
+      </sec>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Material</title>
+      <supplementary-material content-type="local-data" id="SD1">
+        <caption>
+          <title>Supplemental Digital Content</title>
+        </caption>
+        <media mimetype="application" mime-subtype="pdf" xlink:href="medi-96-e6278-s001.doc" xlink:type="simple" id="d35e509" position="anchor"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors thank MD Isabel Kolm for performing the teledermatological evaluations and BSc Carmen Del Prete for assistance in data collection.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="abbr">
+        <p>Abbreviations: CI = Confidence Interval, OR = Odds ratio.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>Funding: This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.</p>
+      </fn>
+      <fn fn-type="COI-statement">
+        <p>The authors report no conflicts of interest.</p>
+      </fn>
+      <fn fn-type="other">
+        <p>Supplemental digital content is available for this article.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="R1">
+        <label>[1]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lutz</surname><given-names>JM</given-names></name><name><surname>Francisci</surname><given-names>S</given-names></name><name><surname>Mugno</surname><given-names>E</given-names></name><etal/></person-group>
+<article-title>Cancer prevalence in Central Europe: the EUROPREVAL Study</article-title>. <source>Ann Oncol</source>
+<year>2003</year>;<volume>14</volume>:<fpage>313</fpage>&#x2013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">12562661</pub-id></mixed-citation>
+      </ref>
+      <ref id="R2">
+        <label>[2]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Heinzerling</surname><given-names>LM</given-names></name><name><surname>Dummer</surname><given-names>R</given-names></name><name><surname>Panizzon</surname><given-names>RG</given-names></name><etal/></person-group>
+<article-title>Prevention campaign against skin cancer</article-title>. <source>Dermatology</source>
+<year>2002</year>;<volume>205</volume>:<fpage>229</fpage>&#x2013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">12399668</pub-id></mixed-citation>
+      </ref>
+      <ref id="R3">
+        <label>[3]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van der Leest</surname><given-names>RJ</given-names></name><name><surname>de Vries</surname><given-names>E</given-names></name><name><surname>Bulliard</surname><given-names>JL</given-names></name><etal/></person-group>
+<article-title>The Euromelanoma skin cancer prevention campaign in Europe: characteristics and results of 2009 and 2010</article-title>. <source>J Eur Acad Dermatol Venereol</source>
+<year>2011</year>;<volume>25</volume>:<fpage>1455</fpage>&#x2013;<lpage>65</lpage>.<pub-id pub-id-type="pmid">21951235</pub-id></mixed-citation>
+      </ref>
+      <ref id="R4">
+        <label>[4]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Choudhury</surname><given-names>K</given-names></name><name><surname>Volkmer</surname><given-names>B</given-names></name><name><surname>Greinert</surname><given-names>R</given-names></name><etal/></person-group>
+<article-title>Effectiveness of skin cancer screening programmes</article-title>. <source>Br J Dermatol</source>
+<year>2012</year>;<volume>167</volume><issue>(Suppl)</issue>:<fpage>94</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">22881593</pub-id></mixed-citation>
+      </ref>
+      <ref id="R5">
+        <label>[5]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gordon</surname><given-names>LG</given-names></name><name><surname>Rowell</surname><given-names>D</given-names></name></person-group>
+<article-title>Health system costs of skin cancer and cost-effectiveness of skin cancer prevention and screening: a systematic review</article-title>. <source>Eur J Cancer Prev</source>
+<year>2015</year>;<volume>24</volume>:<fpage>141</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">25089375</pub-id></mixed-citation>
+      </ref>
+      <ref id="R6">
+        <label>[6]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Calonge</surname><given-names>N</given-names></name><name><surname>Petitti</surname><given-names>DB</given-names></name><name><surname>DeWitt</surname><given-names>TG</given-names></name><etal/></person-group>
+<article-title>Screening for skin cancer: U.S. Preventive Services Task Force recommendation statement</article-title>. <source>Ann Intern Med</source>
+<year>2009</year>;<volume>150</volume>:<fpage>188</fpage>&#x2013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">19189908</pub-id></mixed-citation>
+      </ref>
+      <ref id="R7">
+        <label>[7]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Katalinic</surname><given-names>A</given-names></name><name><surname>Eisemann</surname><given-names>N</given-names></name><name><surname>Waldmann</surname><given-names>A</given-names></name></person-group>
+<article-title>Skin cancer screening in Germany. Documenting melanoma incidence and mortality from 2008 to 2013</article-title>. <source>Dtsch Arztebl Int</source>
+<year>2015</year>;<volume>112</volume>:<fpage>629</fpage>&#x2013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">26429634</pub-id></mixed-citation>
+      </ref>
+      <ref id="R8">
+        <label>[8]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Breitbart</surname><given-names>EW</given-names></name><name><surname>Waldmann</surname><given-names>A</given-names></name><name><surname>Nolte</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Systematic skin cancer screening in Northern Germany</article-title>. <source>J Am Acad Dermatol</source>
+<year>2012</year>;<volume>66</volume>:<fpage>201</fpage>&#x2013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">22074699</pub-id></mixed-citation>
+      </ref>
+      <ref id="R9">
+        <label>[9]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hoorens</surname><given-names>I</given-names></name><name><surname>Vossaert</surname><given-names>K</given-names></name><name><surname>Pil</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>Total-body examination vs lesion-directed skin cancer screening</article-title>. <source>JAMA Dermatol</source>
+<year>2016</year>;<volume>152</volume>:<fpage>27</fpage>&#x2013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">26466155</pub-id></mixed-citation>
+      </ref>
+      <ref id="R10">
+        <label>[10]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nami</surname><given-names>N</given-names></name><name><surname>Massone</surname><given-names>C</given-names></name><name><surname>Rubegni</surname><given-names>P</given-names></name><etal/></person-group>
+<article-title>Concordance and time estimation of store-and-forward mobile teledermatology compared to classical face-to-face consultation</article-title>. <source>Acta Derm Venereol</source>
+<year>2015</year>;<volume>95</volume>:<fpage>35</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">24889827</pub-id></mixed-citation>
+      </ref>
+      <ref id="R11">
+        <label>[11]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hersh</surname><given-names>W</given-names></name><name><surname>Helfand</surname><given-names>M</given-names></name><name><surname>Wallace</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>A systematic review of the efficacy of telemedicine for making diagnostic and management decisions</article-title>. <source>J Telemed Telecare</source>
+<year>2002</year>;<volume>8</volume>:<fpage>197</fpage>&#x2013;<lpage>209</lpage>.<pub-id pub-id-type="pmid">12217102</pub-id></mixed-citation>
+      </ref>
+      <ref id="R12">
+        <label>[12]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Warshaw</surname><given-names>EM</given-names></name><name><surname>Hillman</surname><given-names>YJ</given-names></name><name><surname>Greer</surname><given-names>NL</given-names></name><etal/></person-group>
+<article-title>Teledermatology for diagnosis and management of skin conditions: a systematic review</article-title>. <source>J Am Acad Dermatol</source>
+<year>2011</year>;<volume>64</volume>:<fpage>759</fpage>&#x2013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">21036419</pub-id></mixed-citation>
+      </ref>
+      <ref id="R13">
+        <label>[13]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eminovic</surname><given-names>N</given-names></name><name><surname>de Keizer</surname><given-names>NF</given-names></name><name><surname>Bindels</surname><given-names>PJ</given-names></name><etal/></person-group>
+<article-title>Maturity of teledermatology evaluation research: a systematic literature review</article-title>. <source>Br J Dermatol</source>
+<year>2007</year>;<volume>156</volume>:<fpage>412</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">17300227</pub-id></mixed-citation>
+      </ref>
+      <ref id="R14">
+        <label>[14]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Warshaw</surname><given-names>EM</given-names></name><name><surname>Lederle</surname><given-names>FA</given-names></name><name><surname>Grill</surname><given-names>JP</given-names></name><etal/></person-group>
+<article-title>Accuracy of teledermatology for pigmented neoplasms</article-title>. <source>J Am Acad Dermatol</source>
+<year>2009</year>;<volume>61</volume>:<fpage>753</fpage>&#x2013;<lpage>65</lpage>.<pub-id pub-id-type="pmid">19679375</pub-id></mixed-citation>
+      </ref>
+      <ref id="R15">
+        <label>[15]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Warshaw</surname><given-names>EM</given-names></name><name><surname>Lederle</surname><given-names>FA</given-names></name><name><surname>Grill</surname><given-names>JP</given-names></name><etal/></person-group>
+<article-title>Accuracy of teledermatology for nonpigmented neoplasms</article-title>. <source>J Am Acad Dermatol</source>
+<year>2009</year>;<volume>60</volume>:<fpage>579</fpage>&#x2013;<lpage>88</lpage>.<pub-id pub-id-type="pmid">19217689</pub-id></mixed-citation>
+      </ref>
+      <ref id="R16">
+        <label>[16]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kroemer</surname><given-names>S</given-names></name><name><surname>Fruhauf</surname><given-names>J</given-names></name><name><surname>Campbell</surname><given-names>TM</given-names></name><etal/></person-group>
+<article-title>Mobile teledermatology for skin tumour screening: diagnostic accuracy of clinical and dermoscopic image tele-evaluation using cellular phones</article-title>. <source>Br J Dermatol</source>
+<year>2011</year>;<volume>164</volume>:<fpage>973</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">21219286</pub-id></mixed-citation>
+      </ref>
+      <ref id="R17">
+        <label>[17]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Borve</surname><given-names>A</given-names></name><name><surname>Terstappen</surname><given-names>K</given-names></name><name><surname>Sandberg</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Mobile teledermoscopy-there's an app for that!</article-title>. <source>Dermatol Prac Concept</source>
+<year>2013</year>;<volume>3</volume>:<fpage>41</fpage>&#x2013;<lpage>8</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R18">
+        <label>[18]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Quigley</surname><given-names>EA</given-names></name><name><surname>Tokay</surname><given-names>BA</given-names></name><name><surname>Jewell</surname><given-names>ST</given-names></name><etal/></person-group>
+<article-title>Technology and technique standards for camera-acquired digital dermatologic images: a systematic review</article-title>. <source>JAMA Dermatol</source>
+<year>2015</year>;<volume>151</volume>:<fpage>883</fpage>&#x2013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">25970844</pub-id></mixed-citation>
+      </ref>
+      <ref id="R19">
+        <label>[19]</label>
+        <mixed-citation publication-type="book"><comment>Handyscope&#xAE;; FotoFinder Systems GmbH, Bad Birnbach, Germany; 2012. <ext-link ext-link-type="uri" xlink:href="http://www.fotofinder.de/">www.fotofinder.de</ext-link></comment>.</mixed-citation>
+      </ref>
+      <ref id="R20">
+        <label>[20]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lamel</surname><given-names>SA</given-names></name><name><surname>Haldeman</surname><given-names>KM</given-names></name><name><surname>Ely</surname><given-names>H</given-names></name><etal/></person-group>
+<article-title>Application of mobile teledermatology for skin cancer screening</article-title>. <source>J Am Acad Dermatol</source>
+<year>2012</year>;<volume>67</volume>:<fpage>576</fpage>&#x2013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">22243769</pub-id></mixed-citation>
+      </ref>
+      <ref id="R21">
+        <label>[21]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rimner</surname><given-names>T</given-names></name><name><surname>Blozik</surname><given-names>E</given-names></name><name><surname>Fischer Casagrande</surname><given-names>B</given-names></name><etal/></person-group>
+<article-title>Digital skin images submitted by patients: an evaluation of feasibility in store-and-forward teledermatology</article-title>. <source>Eur J Dermatol</source>
+<year>2010</year>;<volume>20</volume>:<fpage>606</fpage>&#x2013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">20634171</pub-id></mixed-citation>
+      </ref>
+      <ref id="R22">
+        <label>[22]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Silveira</surname><given-names>CE</given-names></name><name><surname>Silva</surname><given-names>TB</given-names></name><name><surname>Fregnani</surname><given-names>JH</given-names></name><etal/></person-group>
+<article-title>Digital photography in skin cancer screening by mobile units in remote areas of Brazil</article-title>. <source>BMC Dermatol</source>
+<year>2014</year>;<volume>14</volume>:<fpage>19</fpage>.<pub-id pub-id-type="pmid">25539949</pub-id></mixed-citation>
+      </ref>
+      <ref id="R23">
+        <label>[23]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Spinks</surname><given-names>J</given-names></name><name><surname>Janda</surname><given-names>M</given-names></name><name><surname>Soyer</surname><given-names>HP</given-names></name><etal/></person-group>
+<article-title>Consumer preferences for teledermoscopy screening to detect melanoma early</article-title>. <source>J Telemed Telecare</source>
+<year>2015</year>;<volume>22</volume>:<fpage>39</fpage>&#x2013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">26026184</pub-id></mixed-citation>
+      </ref>
+      <ref id="R24">
+        <label>[24]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Badertscher</surname><given-names>N</given-names></name><name><surname>Meier</surname><given-names>M</given-names></name><name><surname>Rosemann</surname><given-names>T</given-names></name><etal/></person-group>
+<article-title>The role of skin self-examination at the Swiss skin cancer day</article-title>. <source>BMC Health Serv Res</source>
+<year>2014</year>;<volume>14</volume>:<fpage>581</fpage>.<pub-id pub-id-type="pmid">25408258</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

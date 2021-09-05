@@ -1,0 +1,36 @@
+{
+    "publisher": {
+        "name": "Anchor Books"
+    },
+    "lccn": [
+        "89028542"
+    ],
+    "olid": [
+        "OL2206423M"
+    ],
+    "isbn": [
+        "0385081308"
+    ],
+    "subtitle": "a collection of Zen & pre-Zen writings",
+    "title": "Zen flesh, Zen bones",
+    "url": "https://openlibrary.org/books/OL2206423M/Zen_flesh_Zen_bones",
+    "dewey decimal class": [
+        "294.3/927"
+    ],
+    "lc classifications": [
+        "BQ9264 .R47 1989"
+    ],
+    "pages": 174,
+    "cover": "https://covers.openlibrary.org/b/id/4610625-M.jpg",
+    "subject": [
+        "Zen literature",
+        "Protected DAISY",
+        "Accessible book",
+        "In library"
+    ],
+    "pubdate": "1989",
+    "author": [
+        "Paul Reps"
+    ],
+    "retrieved-from": "https://openlibrary.org/"
+}

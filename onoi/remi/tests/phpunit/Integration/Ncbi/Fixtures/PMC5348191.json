@@ -1,0 +1,61 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "5348191"
+        ],
+        "5348191": {
+            "uid": "5348191",
+            "pubdate": "2017 Mar 10",
+            "epubdate": "2017 Mar 10",
+            "printpubdate": "",
+            "source": "Medicine (Baltimore)",
+            "authors": [
+                {
+                    "name": "Markun S",
+                    "authtype": "Author"
+                },
+                {
+                    "name": "Scherz N",
+                    "authtype": "Author"
+                },
+                {
+                    "name": "Rosemann T",
+                    "authtype": "Author"
+                },
+                {
+                    "name": "Tandjung R",
+                    "authtype": "Author"
+                },
+                {
+                    "name": "Braun RP",
+                    "authtype": "Author"
+                }
+            ],
+            "title": "Mobile teledermatology for skin cancer screening: A diagnostic accuracy study",
+            "volume": "96",
+            "issue": "10",
+            "pages": "e6278",
+            "articleids": [
+                {
+                    "idtype": "pmid",
+                    "value": "28272243"
+                },
+                {
+                    "idtype": "doi",
+                    "value": "10.1097/MD.0000000000006278"
+                },
+                {
+                    "idtype": "pmcid",
+                    "value": "PMC5348191"
+                }
+            ],
+            "fulljournalname": "Medicine",
+            "sortdate": "2017/03/10 00:00",
+            "pmclivedate": "2017/03/22"
+        }
+    }
+}

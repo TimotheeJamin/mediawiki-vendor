@@ -1,0 +1,30 @@
+{
+    "publisher": {
+        "name": "Academic Press"
+    },
+    "isbn": [
+        "9780120224388",
+        "0120224380"
+    ],
+    "olid": [
+        "OL10070390M"
+    ],
+    "oclc": [
+        "29896836"
+    ],
+    "title": "Advances in Immunology",
+    "url": "https://openlibrary.org/books/OL10070390M/Advances_in_Immunology",
+    "pages": 424,
+    "cover": "https://covers.openlibrary.org/b/id/5031079-M.jpg",
+    "subject": [
+        "Immunite .",
+        "MEDICAL",
+        "Allergy",
+        "Immunology"
+    ],
+    "pubdate": "April 1986",
+    "author": [
+        "Frank J. Dixon"
+    ],
+    "retrieved-from": "https://openlibrary.org/"
+}

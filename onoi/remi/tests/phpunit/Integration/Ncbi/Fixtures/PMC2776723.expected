@@ -1,0 +1,22 @@
+{
+    "ncbi-dbtype": "pmc",
+    "pmid": "18487186",
+    "doi": "10.1126/science.1152662",
+    "pmcid": "PMC2776723",
+    "author": [
+        "Bromberg KD",
+        "Ma'ayan A",
+        "Neves SR",
+        "Iyengar R"
+    ],
+    "title": "Design Logic of a Cannabinoid Receptor Signaling Network That Triggers Neurite Outgrowth",
+    "journal": "Science (New York, N.Y.)",
+    "pubdate": "2008/05/16 00:00",
+    "volume": "320",
+    "issue": "5878",
+    "pages": "903-909",
+    "year": "2009",
+    "abstract": "Cannabinoid receptor 1 (CB1R) regulates neuronal differentiation. To understand the logic underlying decision-making in the signaling network controlling CB1R-induced neurite outgrowth, we profiled the activation of several hundred transcription factors after cell stimulation. We assembled an in silico signaling network by connecting CB1R to 23 activated transcription factors. Statistical analyses of this network predicted a role for the breast cancer 1 protein BRCA1 in neuronal differentiation and a new pathway from CB1R through phosphoinositol 3-kinase to the transcription factor paired box 6 (PAX6). Both predictions were experimentally confirmed. Results of transcription factor activation experiments that used pharmacological inhibitors of kinases revealed a network organization of partial OR gates regulating kinases stacked above AND gates that control transcription factors, which together allow for distributed decision-making in CB1R-induced neurite outgrowth.",
+    "type": "research-article",
+    "retrieved-from": "http://www.ncbi.nlm.nih.gov/"
+}

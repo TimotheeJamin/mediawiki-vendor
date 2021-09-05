@@ -1,0 +1,15 @@
+{
+    "type": "dataset",
+    "doi": "10.5524/0.0.15",
+    "title": "Genomic data from the Emperor penguin (Aptenodytes forsteri)",
+    "publisher": "GigaScience",
+    "year": "2011",
+    "reference": "li, j2011ge",
+    "author": [
+        "Li, J",
+        "Zhang, G",
+        "Lambert, D",
+        "Wang, J"
+    ],
+    "retrieved-from": "https://dx.doi.org/"
+}

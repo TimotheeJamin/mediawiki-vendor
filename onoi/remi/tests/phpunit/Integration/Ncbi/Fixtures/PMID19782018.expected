@@ -1,0 +1,36 @@
+{
+    "ncbi-dbtype": "pubmed",
+    "type": [
+        "Journal Article"
+    ],
+    "doi": "10.1016/j.molcel.2009.09.013",
+    "pmid": "19782018",
+    "author": [
+        "Alon U"
+    ],
+    "title": "How to choose a good scientific problem.",
+    "journal": "Molecular cell",
+    "pubdate": "2009 Sep 24",
+    "volume": "35",
+    "issue": "6",
+    "pages": "726-8",
+    "year": "2009",
+    "abstract": "Choosing good problems is essential for being a good scientist. But what is a good problem, and how do you choose one? The subject is not usually discussed explicitly within our profession. Scientists are expected to be smart enough to figure it out on their own and through the observation of their teachers. This lack of explicit discussion leaves a vacuum that can lead to approaches such as choosing problems that can give results that merit publication in valued journals, resulting in a job and tenure.",
+    "subject": [
+        "Biomedical Research",
+        "Career Choice",
+        "Choice Behavior",
+        "Education, Graduate",
+        "Emotions",
+        "Humans",
+        "Mentors",
+        "Peer Review, Research",
+        "Periodicals as Topic",
+        "Research Design",
+        "Time Factors"
+    ],
+    "iso-abbreviation":[
+        "Mol. Cell"
+    ],
+    "retrieved-from": "http://www.ncbi.nlm.nih.gov/"
+}

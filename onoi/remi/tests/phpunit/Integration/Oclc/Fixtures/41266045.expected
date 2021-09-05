@@ -1,0 +1,49 @@
+{
+    "subject": [
+        "Fantasy fiction",
+        "Harry Potter (Fictitious character.)",
+        "Magic",
+        "Schools",
+        "Wizards",
+        "Magic",
+        "Magic",
+        "Schools",
+        "Wizards",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)",
+        "Granger, Hermione (Fictitious character)",
+        "Weasley, Ron (Fictitious character)"
+    ],
+    "viaf": [
+        "116796842",
+        "308752753"
+    ],
+    "author": [
+        "J. K. Rowling",
+        "(Fictitious character) Harry Potter"
+    ],
+    "isbn": [
+        "9780439136358",
+        "0439136350",
+        "9780439136365",
+        "0439136369",
+        "9781480614994",
+        "1480614998"
+    ],
+    "url": "http://www.worldcat.org/oclc/41266045",
+    "type": [
+        "schema:Book",
+        "schema:CreativeWork"
+    ],
+    "edition": "1st American ed.",
+    "pubdate": "1999",
+    "abstract": [
+        "During his third year at Hogwarts School for Witchcraft and Wizardry, Harry Potter must confront the devious and dangerous wizard responsible for his parents' deaths."
+    ],
+    "genre": [
+        "Juvenile works",
+        "Fantasy fiction",
+        "Fiction"
+    ],
+    "title": "Harry Potter and the prisoner of Azkaban",
+    "retrieved-from": "http://www.worldcat.org/"
+}

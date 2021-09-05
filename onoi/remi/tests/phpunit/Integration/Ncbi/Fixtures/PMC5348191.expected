@@ -1,0 +1,23 @@
+{
+   "ncbi-dbtype":"pmc",
+   "pmid":"28272243",
+   "doi":"10.1097\/MD.0000000000006278",
+   "pmcid":"PMC5348191",
+   "author":[
+      "Markun S",
+      "Scherz N",
+      "Rosemann T",
+      "Tandjung R",
+      "Braun RP"
+   ],
+   "title":"Mobile teledermatology for skin cancer screening: A diagnostic accuracy study",
+   "journal":"Medicine",
+   "pubdate":"2017 Mar 10",
+   "volume":"96",
+   "issue":"10",
+   "pages":"e6278",
+   "retrieved-from":"http:\/\/www.ncbi.nlm.nih.gov\/",
+   "year":"2017",
+   "abstract":"Abstract Skin cancer screening has undoubted potential to reduce cancer-specific morbidity and mortality. Total-body exams remain the prevailing concept of skin cancer screening even if effectiveness and value of this method are controversial. Meanwhile, store and forward teledermatology was shown to be a reliable instrument for several diagnostic purposes mostly in specialized dermatology settings. The objective of this study was to evaluate most convenient mobile teledermatology interventions as instruments for skin cancer screening in a representative population. Prospective diagnostic study with visitors of a skin cancer screening campaign in Switzerland. Histopathology was used as reference standard. Mobile teledermatology with or without dermoscopic images was assessed for performance as a screening test (i.e., rule-in or rule-out the need for further testing). Outcomes were sensitivity, specificity, and predictive values. Seven cases of skin cancer were present among 195 skin lesions. All skin cancers were ruled-in by teledermatology with or without dermoscopic images (sensitivity and negative predictive value 100%). The addition of dermoscopic images to conventional images resulted in higher specificity (85% vs. 77%), allowing reduction of unnecessary further testing in a larger proportion of skin lesions. Store and forward mobile teledermatology could serve as an instrument for population-based skin cancer screening because of favorable test performance.",
+   "type":"research-article"
+}
