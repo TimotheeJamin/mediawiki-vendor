@@ -5,7 +5,7 @@
         'type' => 'mediawiki-core',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'f166906c5d432d2d9541e71945b1b87e706f3012',
+        'reference' => '4136aa6bd2cb1adccc041e6ec3303b20b3a729e6',
         'name' => 'mediawiki/core',
         'dev' => false,
     ),
@@ -211,7 +211,7 @@
             'type' => 'mediawiki-core',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'f166906c5d432d2d9541e71945b1b87e706f3012',
+            'reference' => '4136aa6bd2cb1adccc041e6ec3303b20b3a729e6',
             'dev_requirement' => false,
         ),
         'mediawiki/data-values' => array(

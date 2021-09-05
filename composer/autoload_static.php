@@ -9,31 +9,31 @@ class ComposerStaticInit_mediawiki_vendor
     public static $files = array (
         'af3cc937b8a54e5b4209c82d6cfe8889' => __DIR__ . '/..' . '/param-processor/param-processor/DefaultConfig.php',
         '5a04c63399fef01344b45823e301d04d' => __DIR__ . '/..' . '/onoi/shared-resources/Resources.php',
-        'ad155f8f1cf0d418fe49e248db8c661b' => __DIR__ . '/..' . '/react/promise/src/functions_include.php',
         '94e265ce14c952a920a4ea5f7e8e9baa' => __DIR__ . '/..' . '/mediawiki/parser-hooks/ParserHooks.php',
+        'ad155f8f1cf0d418fe49e248db8c661b' => __DIR__ . '/..' . '/react/promise/src/functions_include.php',
         '8592c7b0947d8a0965a9e8c3d16f9c24' => __DIR__ . '/..' . '/elasticsearch/elasticsearch/src/autoload.php',
         'cd9b6b6b76aed1304a64986142337d3a' => __DIR__ . '/../..' . '/extensions/SemanticMediaWiki/SemanticMediaWiki.php',
         'a4a119a56e50fbb293281d9a48007e0e' => __DIR__ . '/..' . '/symfony/polyfill-php80/bootstrap.php',
         '7b11c4dc42b3b3023073cb14e519683c' => __DIR__ . '/..' . '/ralouphie/getallheaders/src/getallheaders.php',
         'eccc0347283a01e62f5536bcf76b6e62' => __DIR__ . '/..' . '/wikimedia/at-ease/src/Wikimedia/Functions.php',
         'a0edc8309cc5e1d60e3047b5df6b7052' => __DIR__ . '/..' . '/guzzlehttp/psr7/src/functions_include.php',
-        'c3f7f0e81464740a933532e81fa26cc7' => __DIR__ . '/..' . '/wikimedia/base-convert/src/Functions.php',
-        '25072dd6e2470089de65ae7bf11d3109' => __DIR__ . '/..' . '/symfony/polyfill-php72/bootstrap.php',
-        'e69f7f6ee287b969198c3c9d6777bd38' => __DIR__ . '/..' . '/symfony/polyfill-intl-normalizer/bootstrap.php',
         'c3ae67574219cc56cab6c30ef8877b85' => __DIR__ . '/../..' . '/extensions/Validator/Validator.php',
-        'c50606d667a3fde2b80a955639479d3d' => __DIR__ . '/..' . '/wikimedia/timestamp/src/defines.php',
+        'e69f7f6ee287b969198c3c9d6777bd38' => __DIR__ . '/..' . '/symfony/polyfill-intl-normalizer/bootstrap.php',
+        '25072dd6e2470089de65ae7bf11d3109' => __DIR__ . '/..' . '/symfony/polyfill-php72/bootstrap.php',
+        'c3f7f0e81464740a933532e81fa26cc7' => __DIR__ . '/..' . '/wikimedia/base-convert/src/Functions.php',
         'c964ee0ededf28c96ebd9db5099ef910' => __DIR__ . '/..' . '/guzzlehttp/promises/src/functions_include.php',
-        'f598d06aa772fa33d905e87be6398fb1' => __DIR__ . '/..' . '/symfony/polyfill-intl-idn/bootstrap.php',
-        '9632fdd4ff5c3fc9eb31eb68c221f3d3' => __DIR__ . '/../..' . '/extensions/SemanticMetaTags/DefaultSettings.php',
-        'eebd90f80a88031e60e2d8db7cab03bf' => __DIR__ . '/../..' . '/extensions/SemanticMetaTags/SemanticMetaTags.php',
-        'e25c0d73d95f242bda33518bb1c648b2' => __DIR__ . '/../..' . '/extensions/SemanticInterlanguageLinks/SemanticInterlanguageLinks.php',
-        '3324dfbc75ea60346550e520d749543d' => __DIR__ . '/../..' . '/extensions/SemanticCompoundQueries/SemanticCompoundQueries.php',
+        '5cee90b14a8622b5d28c28559972ca28' => __DIR__ . '/../..' . '/extensions/Maps/Maps_Settings.php',
         '5a1406346dc1f0175f8532cdd2e4a952' => __DIR__ . '/../..' . '/extensions/Mermaid/Mermaid.php',
-        '49b46b7a2828914e66c76de75c8414c0' => __DIR__ . '/../..' . '/extensions/SemanticExtraSpecialProperties/SemanticExtraSpecialProperties.php',
         '2f633bed9ccfe742dac24560f4b5d111' => __DIR__ . '/../..' . '/extensions/SemanticBreadcrumbLinks/SemanticBreadcrumbLinks.php',
         'd18fa3b1dccd02b483afde268abd780d' => __DIR__ . '/../..' . '/extensions/SemanticCite/SemanticCite.php',
-        '5cee90b14a8622b5d28c28559972ca28' => __DIR__ . '/../..' . '/extensions/Maps/Maps_Settings.php',
+        '3324dfbc75ea60346550e520d749543d' => __DIR__ . '/../..' . '/extensions/SemanticCompoundQueries/SemanticCompoundQueries.php',
+        '49b46b7a2828914e66c76de75c8414c0' => __DIR__ . '/../..' . '/extensions/SemanticExtraSpecialProperties/SemanticExtraSpecialProperties.php',
+        'e25c0d73d95f242bda33518bb1c648b2' => __DIR__ . '/../..' . '/extensions/SemanticInterlanguageLinks/SemanticInterlanguageLinks.php',
+        '9632fdd4ff5c3fc9eb31eb68c221f3d3' => __DIR__ . '/../..' . '/extensions/SemanticMetaTags/DefaultSettings.php',
+        'eebd90f80a88031e60e2d8db7cab03bf' => __DIR__ . '/../..' . '/extensions/SemanticMetaTags/SemanticMetaTags.php',
         '43b3c7644dd913f46db744c4ac998fef' => __DIR__ . '/../..' . '/extensions/SemanticResultFormats/SemanticResultFormats.php',
+        'f598d06aa772fa33d905e87be6398fb1' => __DIR__ . '/..' . '/symfony/polyfill-intl-idn/bootstrap.php',
+        'c50606d667a3fde2b80a955639479d3d' => __DIR__ . '/..' . '/wikimedia/timestamp/src/defines.php',
         '37a3dc5111fe8f707ab4c132ef1dbc62' => __DIR__ . '/..' . '/guzzlehttp/guzzle/src/functions_include.php',
         '4d945db823e5f6ca6dd83ad1f5fbcc43' => __DIR__ . '/..' . '/wikimedia/relpath/src/RelPath/RelPath.php',
         '6513700b70192b7dfd0e5e9fc8082cf3' => __DIR__ . '/..' . '/wikimedia/relpath/src/Wikimedia/RelPath.php',
@@ -235,13 +235,13 @@ class ComposerStaticInit_mediawiki_vendor
         ),
         'ValueParsers\\' => 
         array (
-            0 => __DIR__ . '/..' . '/data-values/interfaces/src/ValueParsers',
-            1 => __DIR__ . '/..' . '/data-values/common/src/ValueParsers',
+            0 => __DIR__ . '/..' . '/data-values/common/src/ValueParsers',
+            1 => __DIR__ . '/..' . '/data-values/interfaces/src/ValueParsers',
         ),
         'ValueFormatters\\' => 
         array (
-            0 => __DIR__ . '/..' . '/data-values/interfaces/src/ValueFormatters',
-            1 => __DIR__ . '/..' . '/data-values/common/src/ValueFormatters',
+            0 => __DIR__ . '/..' . '/data-values/common/src/ValueFormatters',
+            1 => __DIR__ . '/..' . '/data-values/interfaces/src/ValueFormatters',
         ),
         'Tree\\' => 
         array (
@@ -349,8 +349,8 @@ class ComposerStaticInit_mediawiki_vendor
         ),
         'ParamProcessor\\' => 
         array (
-            0 => __DIR__ . '/..' . '/param-processor/param-processor/src',
-            1 => __DIR__ . '/../..' . '/extensions/Validator/src/ParamProcessor',
+            0 => __DIR__ . '/../..' . '/extensions/Validator/src/ParamProcessor',
+            1 => __DIR__ . '/..' . '/param-processor/param-processor/src',
         ),
         'Onoi\\Tesa\\' => 
         array (
@@ -462,8 +462,8 @@ class ComposerStaticInit_mediawiki_vendor
         ),
         'DataValues\\' => 
         array (
-            0 => __DIR__ . '/..' . '/data-values/data-values/src',
-            1 => __DIR__ . '/..' . '/data-values/common/src/DataValues',
+            0 => __DIR__ . '/..' . '/data-values/common/src/DataValues',
+            1 => __DIR__ . '/..' . '/data-values/data-values/src',
         ),
         'Composer\\Semver\\' => 
         array (
